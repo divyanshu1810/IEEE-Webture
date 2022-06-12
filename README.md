@@ -1,5 +1,5 @@
 # IEEE-Webture
-#Petstagram - an Instagram Clone build using HTML, CSS and Javascript with like feature.
+### Petstagram - an Instagram Clone build using HTML, CSS and Javascript with like feature.
 Link : https://divyanshu1810.github.io/IEEE-Webture/
 
 
